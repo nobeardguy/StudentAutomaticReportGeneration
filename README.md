@@ -1,9 +1,9 @@
 # CBC Students'Report Generation
 📝 **Student Report Generator Using Python & Microsoft word**
 
-A robust and highly efficient solution for generating personalized Learner Report Forms by automating the grading and data consolidation process using Python. Finalizing and printing individual learner reports in Microsoft Word.
-This utility dramatically cuts down the manual effort required for generating large batches of individualized reports, ensuring consistency and accuracy across all report forms for all learners. 
-It’s useful especially in small schools without the financial muscle to acquire advanced tools like Zeraki Analytics software.
+- A robust and highly efficient solution for generating personalized Learner Report Forms by automating the grading and data consolidation process using Python. Finalizing and printing individual learner reports in Microsoft Word.
+- This utility dramatically cuts down the manual effort required for generating large batches of individualized reports, ensuring consistency and accuracy across all report forms for all learners. 
+- It’s useful especially in small schools without the financial muscle to acquire advanced tools like Zeraki Analytics software.
 ________________________________________
 🌟 **Features**
 
