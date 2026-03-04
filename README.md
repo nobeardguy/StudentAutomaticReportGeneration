@@ -1,4 +1,4 @@
-# CBC Students'Report Generation
+# CBE Student Report Generation
 📝 **Student Report Generator Using Python & Microsoft word**
 
 - A robust and highly efficient solution for generating personalized Learner Report Forms by automating the grading and data consolidation process using Python. Finalizing and printing individual learner reports in Microsoft Word.
